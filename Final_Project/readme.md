@@ -1,1 +1,0 @@
-This is the Final Project for BA_V 515 300 2025SS Fundamentals of Analytics and Tech
